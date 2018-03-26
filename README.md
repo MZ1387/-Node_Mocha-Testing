@@ -1,1 +1,3 @@
-# -Node_Mocha-Testing
+# Node_Mocha-Testing
+
+An application to learn about testing using Mocha.
